@@ -76,12 +76,15 @@
 
 	   		<h5>Time Left Until Launching</h5>
 
-	   		<div id="counter" class="cf">
+
+            <?php
+            echo "<div id="counter" class="cf">
 	   			<span>134 <em>days</em></span> 
  					<span>12 <em>hours</em></span>
 					<span>50 <em>minutes</em></span>
  					<span>33 <em>seconds</em></span> 
-   			</div>					
+   			    </div>	";
+            ?>
 
    			<!-- Begin MailChimp Signup Form -->
 	         <div id="mc_embed_signup">
