@@ -79,7 +79,7 @@
 
             <?php
             echo "<div id="counter" class="cf">
-	   			<span>134 <em>days</em></span> 
+	   			<span>199 <em>days</em></span> 
  					<span>12 <em>hours</em></span>
 					<span>50 <em>minutes</em></span>
  					<span>33 <em>seconds</em></span> 
